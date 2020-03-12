@@ -1,4 +1,5 @@
-# COVID-19
+# <div align="center">COVID-19</div>
+## <div align="center">Matthew Keeran</div>
 
 ![](https://github.com/mattkeeran/COVID-19/blob/master/2020-03-12_FL.gif)
 
