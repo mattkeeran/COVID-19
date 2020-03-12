@@ -1,5 +1,7 @@
 # COVID-19
 
+![](https://github.com/mattkeeran/COVID-19/blob/master/2020-03-12_FL.gif)
+
 ### I created this repo because I wanted to try and visualize the spread of COVID-19 in the state of FL. Hopefully someone else might find it interesting or useful.
 
 ### I get the data from press releases from the FL Department of Health (http://www.floridahealth.gov/diseases-and-conditions/COVID-19/)
