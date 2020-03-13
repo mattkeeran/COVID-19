@@ -1,7 +1,7 @@
 # <div align="center">COVID-19</div>
 ## <div align="center">Matthew Keeran</div>
 
-![](https://github.com/mattkeeran/COVID-19/blob/master/2020-03-12_FL.gif)
+![](https://github.com/mattkeeran/COVID-19/blob/master/2020-03-13_FL.gif)
 
 ### I created this repo because I wanted to try and visualize the spread of COVID-19 in the state of FL. Hopefully someone else might find it interesting or useful.
 
