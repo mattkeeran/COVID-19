@@ -9,4 +9,4 @@
 
 ### I use plotly b/c the first link I clicked on in the Google search results was related to plotly and b/c I clicked on it, Google from then on decided I only wanted to see plotly pages...
 
-### Plotly requires FIPS codes to work with state and county level data. I got the FIPS codes for all 67 counties in FL from the US Census here (https://www.census.gov/geographies/reference-files/2016/demo/popest/2016-fips.html)
+### Plotly requires FIPS codes to work with state and county level data. I got the FIPS codes for all 67 counties in FL from the US Census (https://www.census.gov/geographies/reference-files/2016/demo/popest/2016-fips.html)
